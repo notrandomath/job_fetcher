@@ -1,8 +1,8 @@
 # Installation
 1. Clone the repo
 ```
-git clone git@github.com:notrandomath/job-fetcher.git
-cd job-fetcher
+git clone git@github.com:notrandomath/job_fetcher.git
+cd job_fetcher
 ```
 2. Create new conda environment
 ```
